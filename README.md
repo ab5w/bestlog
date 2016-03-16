@@ -1,7 +1,7 @@
 bestlog
 ======================
 
-Tool to create dynamic logs for scripts, useful if you want to know if a script executes it's statement.
+Tool to create centralised dynamic logs for scripts, useful if you want to know if a script executes it's statement.
 
 #### Usage:
 
